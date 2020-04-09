@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3217fc48-19eb-4f59-8cc2-1ab7f52c59f0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YflpOkmHRKkaTiqh10lVzEVFND" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Yvan\WebstormProjects\MyWebside" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3217fc48-19eb-4f59-8cc2-1ab7f52c59f0" name="Default Changelist" comment="" />
+      <created>1583341712014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583341712014</updated>
+      <workItem from="1583341714063" duration="2055000" />
+      <workItem from="1584709251497" duration="6262000" />
+      <workItem from="1585070556840" duration="7714000" />
+      <workItem from="1585981442437" duration="7207000" />
+      <workItem from="1586073560995" duration="691000" />
+      <workItem from="1586188770726" duration="1199000" />
+      <workItem from="1586454265297" duration="389000" />
+      <workItem from="1586454667996" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1387" y="-898" key="SettingsEditor" timestamp="1586454685136">
+      <screen x="926" y="-1080" width="1920" height="1080" />
+    </state>
+    <state x="1387" y="-898" key="SettingsEditor/0.0.3840.1040/926.-1080.1920.1080@926.-1080.1920.1080" timestamp="1586454685136" />
+  </component>
+</project>

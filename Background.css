@@ -1,0 +1,24 @@
+body {
+    background-image: url("apex-legends-logo-3317.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+figcaption {
+    color: black;
+    font-family: Elephant, serif;
+    font-size: 50px;
+    text-decoration: none;
+}
+img {
+    width: 500px;
+    height: 580px;
+
+}
+#Logo {
+    width:462px;
+    height:449px;
+}
+button{
+    background: transparent;
+    border: none;
+}
