@@ -15,6 +15,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YflpOkmHRKkaTiqh10lVzEVFND" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -31,6 +34,11 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yvan\WebstormProjects\MyWebside\Images" />
+      <recent name="C:\Users\Yvan\WebstormProjects\MyWebside\Webpages" />
+      <recent name="C:\Users\Yvan\WebstormProjects\MyWebside\css" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Yvan\WebstormProjects\MyWebside" />
     </key>
@@ -52,7 +60,7 @@
       <workItem from="1586073560995" duration="691000" />
       <workItem from="1586188770726" duration="1199000" />
       <workItem from="1586454265297" duration="389000" />
-      <workItem from="1586454667996" duration="18000" />
+      <workItem from="1586454667996" duration="1362000" />
     </task>
     <servers />
   </component>
