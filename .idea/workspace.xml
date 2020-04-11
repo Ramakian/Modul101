@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3217fc48-19eb-4f59-8cc2-1ab7f52c59f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/css/Charakter.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Webpages/Apex Legends.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Apex Legends.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/Bangalore.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Bangalore.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/Bloodhound.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Bloodhound.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/Caustic.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Caustic.html" afterDir="false" />
@@ -17,7 +15,6 @@
       <change beforePath="$PROJECT_DIR$/Webpages/Revenant.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Revenant.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/Wattson.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Wattson.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Webpages/Wraith.html" beforeDir="false" afterPath="$PROJECT_DIR$/Webpages/Wraith.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/Background.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/Background.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,7 +79,8 @@
       <workItem from="1586456070405" duration="393000" />
       <workItem from="1586460719469" duration="109000" />
       <workItem from="1586509638049" duration="519000" />
-      <workItem from="1586592972016" duration="19087000" />
+      <workItem from="1586592972016" duration="20147000" />
+      <workItem from="1586615341457" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="Ordnerstruktur">
       <created>1586456151523</created>
@@ -105,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1586601289259</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Youtube&amp;Char.css">
+      <created>1586612232189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1586612232189</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,12 +119,14 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Ordnerstruktur" />
     <MESSAGE value="Drop_Down" />
-    <option name="LAST_COMMIT_MESSAGE" value="Drop_Down" />
+    <MESSAGE value="Youtube&amp;Char.css" />
+    <option name="LAST_COMMIT_MESSAGE" value="Youtube&amp;Char.css" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1170" y="129" key="CommitChangelistDialog2" timestamp="1586601288175">
+    <state x="1170" y="129" key="CommitChangelistDialog2" timestamp="1586612231357">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
+    <state x="1170" y="129" key="CommitChangelistDialog2/0.0.3840.1040/926.-1080.1920.1040@0.0.3840.1040" timestamp="1586612231357" />
     <state x="1170" y="129" key="CommitChangelistDialog2/0.0.3840.1040/926.-1080.1920.1080@0.0.3840.1040" timestamp="1586601288175" />
     <state x="1511" y="-946" key="CommitChangelistDialog2/0.0.3840.1040/926.-1080.1920.1080@926.-1080.1920.1080" timestamp="1586456363146" />
     <state x="1666" y="-786" key="FileChooserDialogImpl" timestamp="1586608644722">
@@ -130,9 +137,10 @@
       <screen x="926" y="-1080" width="1920" height="1080" />
     </state>
     <state x="1387" y="-898" key="SettingsEditor/0.0.3840.1040/926.-1080.1920.1080@926.-1080.1920.1080" timestamp="1586454685136" />
-    <state x="1104" y="262" key="Vcs.Push.Dialog.v2" timestamp="1586601295573">
+    <state x="1104" y="262" key="Vcs.Push.Dialog.v2" timestamp="1586612237212">
       <screen x="0" y="0" width="3840" height="1040" />
     </state>
+    <state x="1104" y="262" key="Vcs.Push.Dialog.v2/0.0.3840.1040/926.-1080.1920.1040@0.0.3840.1040" timestamp="1586612237212" />
     <state x="1104" y="262" key="Vcs.Push.Dialog.v2/0.0.3840.1040/926.-1080.1920.1080@0.0.3840.1040" timestamp="1586601295573" />
     <state x="1478" y="-808" key="Vcs.Push.Dialog.v2/0.0.3840.1040/926.-1080.1920.1080@926.-1080.1920.1080" timestamp="1586456377471" />
   </component>
