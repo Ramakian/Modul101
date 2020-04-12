@@ -35,8 +35,8 @@ img {
 }
 
 #Logo {
-    width: 462px;
-    height: 449px;
+    width: 400px;
+    height: 380px;
     margin-bottom: 100px;
     margin-top: 100px;
 }
@@ -106,4 +106,13 @@ li.a.active {
 
 .dropdown:hover .dropdown_content {
     display: block;
+}
+
+footer {
+
+    font-family: Bahnschrift Light c;
+    font-size: 30px;
+    color: black;
+    padding-bottom: 40px;
+    padding-top: 40px;
 }
