@@ -1,0 +1,13 @@
+body {
+    background-image: url("../Images/apex-legends-logo-3317.jpg");
+    background-position: center;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: black;
+    font-family: Bahnschrift Light c;
+    text-decoration: none;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
