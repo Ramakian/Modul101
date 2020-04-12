@@ -29,8 +29,8 @@ figcaption {
 }
 
 img {
-    width: 500px;
-    height: 580px;
+    width: 400px;
+    height: 480px;
 
 }
 
@@ -44,6 +44,7 @@ img {
 button {
     background: transparent;
     border: none;
+
 }
 
 ul {
@@ -113,6 +114,6 @@ footer {
     font-family: Bahnschrift Light c;
     font-size: 30px;
     color: black;
-    padding-bottom: 40px;
-    padding-top: 40px;
+    padding-bottom: 50px;
+    padding-top: 100px;
 }
